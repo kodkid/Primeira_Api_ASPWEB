@@ -30,3 +30,9 @@ C:\Projetos\PrimeiraApi\obj\Debug\net8.0\refint\PrimeiraApi.dll
 C:\Projetos\PrimeiraApi\obj\Debug\net8.0\PrimeiraApi.pdb
 C:\Projetos\PrimeiraApi\obj\Debug\net8.0\PrimeiraApi.genruntimeconfig.cache
 C:\Projetos\PrimeiraApi\obj\Debug\net8.0\ref\PrimeiraApi.dll
+C:\Projetos\PrimeiraApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\PrimeiraApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\PrimeiraApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\PrimeiraApi\bin\Debug\net8.0\Npgsql.dll
+C:\Projetos\PrimeiraApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Projetos\PrimeiraApi\obj\Debug\net8.0\PrimeiraApi.sourcelink.json

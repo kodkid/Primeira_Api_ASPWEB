@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Projetos\\PrimeiraApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|c:\\projetos\\primeiraapi\\infraestrutura\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|solutionrelative:infraestrutura\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|c:\\projetos\\primeiraapi\\infraestrutura\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|solutionrelative:infraestrutura\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|c:\\projetos\\primeiraapi\\model\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|solutionrelative:model\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|c:\\projetos\\primeiraapi\\infraestrutura\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|solutionrelative:infraestrutura\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|c:\\projetos\\primeiraapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|c:\\projetos\\primeiraapi\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|solutionrelative:viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|c:\\projetos\\primeiraapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|c:\\projetos\\primeiraapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|c:\\projetos\\primeiraapi\\model\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58E1F7B-8FA1-4A67-AC79-975146D4571A}|PrimeiraApi.csproj|solutionrelative:model\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +46,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Projetos\\PrimeiraApi\\Infraestrutura\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Infraestrutura\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Projetos\\PrimeiraApi\\Infraestrutura\\EmployeeRepository.cs",
-              "RelativeToolTip": "Infraestrutura\\EmployeeRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T23:57:19.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConnectionContext.cs",
-              "DocumentMoniker": "C:\\Projetos\\PrimeiraApi\\Infraestrutura\\ConnectionContext.cs",
-              "RelativeDocumentMoniker": "Infraestrutura\\ConnectionContext.cs",
-              "ToolTip": "C:\\Projetos\\PrimeiraApi\\Infraestrutura\\ConnectionContext.cs",
-              "RelativeToolTip": "Infraestrutura\\ConnectionContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T23:47:20.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Projetos\\PrimeiraApi\\Model\\IEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Model\\IEmployeeRepository.cs",
-              "ToolTip": "C:\\Projetos\\PrimeiraApi\\Model\\IEmployeeRepository.cs",
-              "RelativeToolTip": "Model\\IEmployeeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T23:44:15.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Projetos\\PrimeiraApi\\Model\\Employee.cs",
               "RelativeDocumentMoniker": "Model\\Employee.cs",
               "ToolTip": "C:\\Projetos\\PrimeiraApi\\Model\\Employee.cs",
               "RelativeToolTip": "Model\\Employee.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBIAAABOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T23:38:24.151Z",
+              "WhenOpened": "2024-07-28T04:47:43.361Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Projetos\\PrimeiraApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Projetos\\PrimeiraApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T05:22:58.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Projetos\\PrimeiraApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Projetos\\PrimeiraApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T05:22:56.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Projetos\\PrimeiraApi\\ViewModel\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Projetos\\PrimeiraApi\\ViewModel\\EmployeeViewModel.cs",
+              "RelativeToolTip": "ViewModel\\EmployeeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T05:16:39.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\PrimeiraApi\\Infraestrutura\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Infraestrutura\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Projetos\\PrimeiraApi\\Infraestrutura\\EmployeeRepository.cs",
+              "RelativeToolTip": "Infraestrutura\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:34:29.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectionContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\PrimeiraApi\\Infraestrutura\\ConnectionContext.cs",
+              "RelativeDocumentMoniker": "Infraestrutura\\ConnectionContext.cs",
+              "ToolTip": "C:\\Projetos\\PrimeiraApi\\Infraestrutura\\ConnectionContext.cs",
+              "RelativeToolTip": "Infraestrutura\\ConnectionContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:47:37.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\PrimeiraApi\\Model\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Model\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Projetos\\PrimeiraApi\\Model\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Model\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T05:16:30.867Z",
               "EditorCaption": ""
             }
           ]

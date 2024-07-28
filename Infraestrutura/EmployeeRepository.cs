@@ -2,7 +2,7 @@
 
 namespace PrimeiraApi.Infraestrutura
 {
-    public class EmployeeRepository
+    public class EmployeeRepository : IEmployeeRepository
     {
 
         private readonly ConnectionContext _context = new ConnectionContext();
@@ -11,7 +11,7 @@ namespace PrimeiraApi.Infraestrutura
             _context.Employees.Add(employee);
             _context.SaveChanges();
         }
-        public List<Employee> GetEmployees()
+        public List<Employee> Get()
         {
             return _context.Employees.ToList();
 
